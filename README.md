@@ -1,6 +1,11 @@
 Iniciante no front-end
+
+
+
 ❤-GYM LIFE
-ESTUDANTE
+
+🖥-ESTUDANTE DE PROGAMAÇÃO
+
 
 
 
